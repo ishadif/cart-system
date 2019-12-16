@@ -1,0 +1,10 @@
+.products {
+    list-style: none;
+    padding: 0;
+}
+.product-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}

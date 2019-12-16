@@ -1,0 +1,11 @@
+.btn-transparent {
+    font-size: .75em;
+    border: none;
+    background-color: #fff;
+    color: #444;
+    outline: none;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: 500;
+}
